@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(#adf3febd, #f99fe3c4);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    color: #ef0e91;
+    font-family: Arial, sans-serif;
+    margin: 100px;
+    text-transform: uppercase;
+}
+
+input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 22px;
+}
+
+button:hover{
+    background-color: #3e8e41;
+}
+
+#mensaje {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    margin-top: 20px;
+}
